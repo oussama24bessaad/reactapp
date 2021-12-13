@@ -90,7 +90,7 @@ function SignUp() {
     <Button variant="primary" size="lg" active type="submit" value="Submit" >
     Submit
   </Button>{' '}
-  <Button variant="secondary" size="lg"  active>
+  <Button variant="secondary" size="lg"  active type="reset">
     Cancel
   </Button>
               </Form>
